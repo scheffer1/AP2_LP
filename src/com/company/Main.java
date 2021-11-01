@@ -7,6 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
         Utils Utils = new Utils();
-        Utils.testanumero("001");
+
     }
 }
